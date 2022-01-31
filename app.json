@@ -1,0 +1,12 @@
+{
+  "name": "John Onyekachi Build: Node.js",
+  "description": "Developed for HashStudy Intership Program",
+  "repository": "",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": [
+    "node",
+    "express",
+    "heroku"
+  ],
+  "image": "heroku/nodejs"
+}
